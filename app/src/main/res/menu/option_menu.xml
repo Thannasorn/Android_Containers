@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Listview"
+        android:title="ListView" />
+    <item
+        android:id="@+id/CustomListview"
+        android:title="Custon ListView" />
+    <item
+        android:id="@+id/Gridview"
+        android:title="GridView" />
+    <item
+        android:id="@+id/Webview"
+        android:title="WebView" />
+    <item
+        android:id="@+id/Searchview"
+        android:title="SearchView" />
+    <item
+        android:id="@+id/Exit"
+        android:title="Exit Program" />
+</menu>
